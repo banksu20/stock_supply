@@ -1,0 +1,43 @@
+# ==============================
+# WordPress Core & Sensitive Files
+# ==============================
+wp-config.php
+.htaccess
+.env
+
+# ==============================
+# WordPress Content
+# ==============================
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/ai1wm-backups/
+
+# ถ้ามี plugin/theme ที่คุณพัฒนาเอง ให้ยกเว้นจาก ignore เช่น:
+# !wp-content/plugins/my-custom-plugin/
+# !wp-content/themes/my-theme/
+
+# ==============================
+# OS / Editor files
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# ==============================
+# Dependency directories
+# ==============================
+node_modules/
+vendor/
+
+# ==============================
+# Backup / Temp
+# ==============================
+*.sql
+*.tar
+*.zip
+*.bak
+*.tmp
