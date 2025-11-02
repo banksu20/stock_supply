@@ -1,1 +1,1 @@
-<h1>ระบบจัดการสินทรัพย์และอุปกรณ์ด้านเทคโนโลยีสารสนเทศ</h1>
+<h1>Information Technology Asset & Inventory Management System </h1>
